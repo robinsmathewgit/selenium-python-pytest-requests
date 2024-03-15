@@ -36,7 +36,7 @@ This project is a test automation framework built using Python, pytest, and the 
 ```bash
 pytest tests_ui
 ```
-2. To run APII tests:
+2. To run API tests:
 
 ```bash
 pytest tests_api
